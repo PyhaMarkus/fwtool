@@ -1,2 +1,2 @@
 # fwtool
-Make quick rules to Windows firewall
+Make quick rules to Windows firewall - WIP
