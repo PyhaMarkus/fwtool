@@ -2,6 +2,7 @@
 
 ### Make quick inbound and outbound rules to Windows Firewall.
 ![fwtool](https://github.com/PyhaMarkus/fwtool/blob/master/kuvat/fwtool.PNG "FWtool")
+---
 ### Installation
 1. Open up Windows Powershell with Administrator privileges.
 2. Make sure your Execution-Policy allows Powershell scripts to run. You check your policy with the command "**ExecutionPolicy -List**"
