@@ -1,5 +1,6 @@
 # fwtool v1.0 (WIP)
-## Make quick inbound and outbound rules to Windows Firewall.
+
+### Make quick inbound and outbound rules to Windows Firewall.
 ![fwtool](https://github.com/PyhaMarkus/fwtool/blob/master/kuvat/fwtool.PNG "FWtool")
 ### Installation
 1. Open up Windows Powershell with Administrator privileges.
@@ -8,7 +9,7 @@
 4. Open up **fwtool.ps1** in a text editor. (Notepad++ recommended)
 5. Change the directory paths of the two pictures to the corresponding paths in your system. Found on lines 40 and 130.
 6. Save changes.
-
+---
 ### Usage
 1. Right click on fwtool.ps1 and click "**Run with Powershell**". This tool is automatically run with Administrator privileges but you have to click "**Yes**" when UAC pops-up.
 2. Give a rule name. This is how you identify the rule within the Windows Firewall.
